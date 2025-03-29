@@ -1,12 +1,12 @@
-## 🚀 Getting Started
+###  Getting Started
 
 These instructions will help you set up and run the project on your local machine.
 
-### 📦 Prerequisites
+###  Prerequisites
 
 Make sure you have [Node.js](https://nodejs.org/) installed.
 
-### ⚡ Installation
+###  Installation
 
 Clone the repository:
    ```bash
