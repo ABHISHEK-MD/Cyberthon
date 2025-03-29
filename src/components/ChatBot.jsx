@@ -30,7 +30,7 @@ const ChatBot = () => {
 
   // Initialize OpenAI client
   const openai = new OpenAI({
-    apiKey: "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", // Add your API key here
+    apiKey: "", // Add your API key here
     dangerouslyAllowBrowser: true
   });
 
